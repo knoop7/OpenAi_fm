@@ -1,0 +1,5 @@
+{
+    "name": "OpenAI_FM",
+    "homeassistant": "2025.02",
+    "hacs": "1.34.0"
+}
