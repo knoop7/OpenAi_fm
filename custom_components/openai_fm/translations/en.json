@@ -1,0 +1,33 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "OpenAI.fm TTS Setup",
+        "description": "Set up OpenAI.fm TTS integration",
+        "data": {
+          "voice": "Voice",
+          "prompt": "Voice Prompt"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to OpenAI.fm API",
+      "unknown": "Unexpected error"
+    },
+    "abort": {
+      "already_configured": "OpenAI.fm TTS is already configured"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "OpenAI.fm TTS Options",
+        "description": "Customize your OpenAI.fm TTS settings",
+        "data": {
+          "voice": "Voice",
+          "prompt": "Voice Prompt"
+        }
+      }
+    }
+  }
+}

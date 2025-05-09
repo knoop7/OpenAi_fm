@@ -1,0 +1,11 @@
+{
+  "domain": "openai_stt",
+  "name": "OPENAI.FM TTS",
+  "codeowners": ["@knoop7"],
+  "config_flow": true,
+  "documentation": "https://github.com/knoop7/openai_fm",
+  "issue_tracker": "https://github.com/knoop7/openai_fm/issues",
+  "iot_class": "cloud_polling",
+  "requirements": ["aiohttp"],
+  "version": "2025.04.01"
+}
